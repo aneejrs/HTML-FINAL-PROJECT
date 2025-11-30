@@ -1,8 +1,12 @@
 # HTML-FINAL-PROJECT
 <img width="1336" height="605" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/6f1774d1-24f4-4039-9348-0623ca5f91c4" />
-<img width="1358" height="608" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/84bdb537-5c49-4240-b954-d6773f163f4b" />
-<img width="1366" height="614" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/7fff9855-e083-4541-b2f9-6d27fa0b0b4f" />
-<img width="1366" height="601" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/2958c09c-3323-4c97-88e9-c8b91dacefb8" />
+<img width="1348" height="594" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/fdcf9906-e8ec-412f-94d6-0cca2ea10465" />
+<img width="1366" height="470" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/88294f9a-4464-4291-8d12-01da18faeedb" />
+<img width="1366" height="596" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/c7957e84-d5fe-4fa0-83b1-084a77f7adff" />
+<img width="1366" height="557" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/18d35bf2-68d8-48d9-a281-6d04ea7800f7" />
+<img width="1366" height="603" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/c7e3bfb8-cd34-4559-a97d-a74ae5d74e3b" />
+
+
 
 
 STUDENT PROFILE & FEEDBACK PORTAL
