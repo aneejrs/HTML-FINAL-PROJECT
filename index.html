@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Student Profile</title>
+  </head>
+  <body>
+    <h2>Student Profile Form</h2>
+
+    <form>
+      <fieldset>
+        <legend>Personal Info</legend>
+
+        <label>First Name:</label>
+        <input type="text" name="fname" />
+        <br /><br />
+
+        <label>Last Name:</label>
+        <input type="text" name="lname" />
+        <br /><br />
+
+        <label>Email:</label>
+        <input type="email" name="email" />
+        <br /><br />
+
+        <label>Password:</label>
+        <input type="password" name="pass" />
+        <br /><br />
+
+        <label>Phone:</label>
+        <input type="tel" name="phone" />
+        <br /><br />
+
+        <label>Date of Birth:</label>
+        <input type="date" name="dob" />
+        <br /><br />
+      </fieldset>
+
+      <br />
+
+      <fieldset>
+        <legend>Education</legend>
+
+        <label>Qualification:</label>
+        <input type="text" name="qualification" />
+        <br /><br />
+
+        <label>Marks:</label>
+        <input type="number" name="marks" />
+        <br /><br />
+
+        <label>Study Mode:</label>
+        <input type="radio" name="mode" /> Full Time
+        <input type="radio" name="mode" /> Part Time
+        <input type="radio" name="mode" /> Distance <br /><br />
+      </fieldset>
+
+      <br />
+
+      <fieldset>
+        <legend>Course</legend>
+
+        <label>Select Course:</label>
+        <select name="course">
+          <option>Python</option>
+          <option>Java</option>
+          <option>PHP</option>
+          <option>React</option>
+        </select>
+        <br /><br />
+
+        <label>Course Mode:</label>
+        <input type="checkbox" name="online" /> Online
+        <input type="checkbox" name="offline" /> Offline
+        <input type="checkbox" name="hybrid" /> Hybrid <br /><br />
+      </fieldset>
+
+      <br />
+
+      <fieldset>
+        <legend>Feedback</legend>
+
+        <textarea rows="4" cols="30" name="feedback"></textarea>
+        <br /><br />
+      </fieldset>
+
+      <br />
+
+      <label>Upload Photo:</label>
+      <input type="file" name="photo" />
+      <br /><br />
+
+      <input type="submit" value="Submit" />
+      <input type="reset" value="Reset" />
+    </form>
+  </body>
+</html>
